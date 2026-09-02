@@ -9,5 +9,6 @@ int main() {
     cin>>n;
     sum=n*(n+1)/2;
     cout<<"Sum = "<<sum<<endl;
+
     return 0;
 }
