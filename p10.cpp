@@ -29,5 +29,6 @@ int main(){
     else {
         cout<<temp<<" is not a Strong number."<<endl;
     }
+    
     return 0;
 }
