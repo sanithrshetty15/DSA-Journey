@@ -16,5 +16,7 @@ using namespace std;
         }
     }
     cout<<num<<" is not a Perfect square."<<endl;
+
     return 0;
+    
 }
