@@ -22,5 +22,6 @@ int main() {
     }
     result=(double)power/fact;
     cout<<"Result = "<<result<<endl;
+
     return 0;
 }
