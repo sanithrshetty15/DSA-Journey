@@ -21,5 +21,6 @@ int main(){
     else {
         cout<<temp<<" is not an Abundant number."<<endl;
     }
+    
     return 0;
 }
