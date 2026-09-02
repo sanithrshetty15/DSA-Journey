@@ -19,4 +19,5 @@ int main(){
     cout<<"Factorial = "<<fact(num)<<endl;
 
     return 0;
+    
 }
