@@ -26,5 +26,7 @@ int main(){
     lcm=(num1*num2)/g;
 
     cout<<"LCM of "<<num1<<" & "<<num2<<" is: "<<lcm<<endl;
+    
     return 0;
+
 }
