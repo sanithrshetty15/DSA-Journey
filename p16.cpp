@@ -18,4 +18,5 @@ int main(){
     cout<<num<<" is a Prime number."<<endl;
 
     return 0;
+    
 }
