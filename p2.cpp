@@ -13,6 +13,6 @@ int main() {
     }
     result=1.0/fact;
     cout<<"Result = "<<result<<endl;
-    return 0;
 
+    return 0;
 }
