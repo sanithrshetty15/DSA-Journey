@@ -21,5 +21,6 @@ int main(){
     else{
         cout<<"The number "<<temp<<" is not a Palindrome."<<endl;
     }
+    
     return 0;
 }
