@@ -21,5 +21,6 @@ int main(){
     else{
         cout<<temp<<" is not a Harshad number."<<endl;
     }
+    
     return 0;
 }
