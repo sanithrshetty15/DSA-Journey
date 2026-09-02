@@ -22,5 +22,6 @@ int main(){
     else {
         cout<<temp<<" is not an Armstrong number."<<endl;
     }
+    
     return 0;
 }
