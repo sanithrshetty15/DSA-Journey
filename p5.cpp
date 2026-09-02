@@ -15,5 +15,6 @@ int main(){
         num/=10;
     }
     cout<<"Sum of digits = "<<sum<<endl;
+    
     return 0;
 }
