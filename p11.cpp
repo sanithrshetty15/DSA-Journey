@@ -29,4 +29,5 @@ int main(){
     cout<<"GCD of "<<num1<<" & "<<num2<<" is: "<<g<<endl;
 
     return 0;
+    
 }
