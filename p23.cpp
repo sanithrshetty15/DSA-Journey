@@ -21,7 +21,6 @@ int Isprime(int n){
 }
 int main(){
     long num,result=0,temp;
-    
 
     cout<<"Enter a number:";
     cin>>num;
