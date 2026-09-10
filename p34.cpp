@@ -5,6 +5,14 @@ Enter the number: 4
 2  3  
 4  5  6  
 7  8  9  10  
+
+AND
+
+
+A
+B  C
+D  E  F
+G  H  I  J
 */
 
 #include<iostream>
@@ -23,4 +31,15 @@ int main(){
         }
         cout<<endl;
     }
+
+    char ch=1;
+
+    cout<<endl<<endl;
+    for(int i=0;i<num;i++){
+        for(int j=0;j<i+1;j++){
+            cout<<ch<<"  ";
+        }
+        cout<<endl;
+    }
+
 }
