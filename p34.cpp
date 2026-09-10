@@ -13,7 +13,7 @@ using namespace std;
 int main(){
     int num;
 
-    cout<<"Enter the number: ";
+    cout<<"Enter the number : ";
     cin>>num;
     int k=1;
     for(int i=0;i<num;i++){
