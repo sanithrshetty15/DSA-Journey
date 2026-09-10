@@ -32,12 +32,13 @@ int main(){
         cout<<endl;
     }
 
-    char ch=1;
+    char ch='A';
 
-    cout<<endl<<endl;
+    cout<<endl;
     for(int i=0;i<num;i++){
         for(int j=0;j<i+1;j++){
             cout<<ch<<"  ";
+            ch++;
         }
         cout<<endl;
     }
