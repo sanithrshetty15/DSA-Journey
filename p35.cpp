@@ -10,7 +10,6 @@ int main(){
     cout<<"Enter the number: ";
     cin>>num;
     temp=num;
-
     last=num%10;
 
     while(num!=0){
